@@ -17,6 +17,7 @@ Emoción — 5/10: no necesita sentir emociones, pero sí reconocer cuándo el e
 <img width="1140" height="809" alt="Captura de pantalla 2026-10-08 102848" src="https://github.com/user-attachments/assets/e78a6921-0777-4368-93e7-f39d7646180f" />
 
 #fase 3 semANA 8 Y 9#
+
 <img width="763" height="532" alt="Captura de pantalla 2026-10-08 104344" src="https://github.com/user-attachments/assets/5669549d-451d-435b-bac9-5f3c828db441" />
 <img width="740" height="431" alt="Captura de pantalla 2026-10-08 104332" src="https://github.com/user-attachments/assets/750dafda-2a9a-40cb-adca-b2a4f90231ed" />
 <img width="786" height="585" alt="Captura de pantalla 2026-10-08 104323" src="https://github.com/user-attachments/assets/8ae5cf62-ae2f-4739-b653-11db47c04d75" />
