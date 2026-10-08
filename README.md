@@ -12,3 +12,5 @@ Atención — 9/10: necesita identificar qué está preguntando el estudiante y 
 Memoria — 8/10: necesita conservar el contexto de la conversación, los temas que está estudiando y sus respuestas anteriores.
 Lenguaje — 10/10: es el proceso más importante porque debe comprender preguntas y explicar conceptos de manera clara.
 Emoción — 5/10: no necesita sentir emociones, pero sí reconocer cuándo el estudiante está frustrado o necesita motivación para adaptar su tono.
+fase 3 semaNA 7
+<img width="1140" height="809" alt="Captura de pantalla 2026-10-08 102848" src="https://github.com/user-attachments/assets/e78a6921-0777-4368-93e7-f39d7646180f" />
